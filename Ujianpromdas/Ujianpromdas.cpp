@@ -38,3 +38,7 @@ int main() {
 			jumlah_ditolak++;
 		}
 	}
+	cout << "Jumlah mahasiswa diterima: " << jumlah_diterima << endl;
+	cout << "Jumlah mahasiswa ditolak: " << jumlah_ditolak << endl;
+	return 0;
+}
